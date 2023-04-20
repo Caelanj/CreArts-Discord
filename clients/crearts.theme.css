@@ -12,7 +12,7 @@
 /* ║ Discord Theme                                                                                                      ║ */
 /* ╠══════════════════════════╦═════════════════════════════════════════════════════════════════════════════════════════╣ */
 /* ║ Name:                    ║ CreArts v3                                                                              ║ */
-/* ║ Version:                 ║ 3.0.2                                                                                   ║ */
+/* ║ Version:                 ║ 3.0.3                                                                                   ║ */
 /* ║ Author:                  ║ CorellanStoma#1996                                                                      ║ */
 /* ║ License:                 ║ MIT                                                                                     ║ */
 /* ╠══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╣ */
@@ -124,7 +124,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Spotify Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/spotify.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/spotify.css"); /**/
 
 /* ⭕ Twitch Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/twitch.css"); /**/
@@ -239,7 +239,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Friends-Grid */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css"); /**/
 
 /* ✅ Context-Icons */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/context-icons.css"); /**/
